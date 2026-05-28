@@ -26,6 +26,12 @@ Aquí comparto las herramientas y tecnologías con las que trabajo para garantiz
 
 ---
 
+## 🗣️ Idiomas
+
+* **Español:** Nativo (Native)
+* **Inglés:** Intermedio (Intermediate - B1/B2)
+---
+
 ## 🚀 Proyectos Destacados (QA Portfolio)
 
 ### 1. Framework de Automatización de APIs - Urban Grocers
