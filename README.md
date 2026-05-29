@@ -54,7 +54,7 @@ Planificación y ejecución de un ciclo completo de pruebas para la aplicación 
 * 🔍 **Habilidades:** Diseño de Casos de Prueba, Web Testing, Mobile Testing, Postman.
 ---
 
-## What I'm looking for
+## Lo que estoy buscando
 
 Actualmente estoy buscando activamente oportunidades profesionales como **QA Engineer (Manual / Automation)** en empresas de tecnología o equipos de desarrollo de software innovadores. Me entusiasma integrarme a equipos que valoren la excelencia técnica, la automatización inteligente y la mejora continua de procesos. Busco un entorno donde pueda aportar mi mentalidad analítica de ingeniera industrial, colaborar estrechamente con desarrolladores para elevar los estándares de calidad del producto y continuar expandiendo mis habilidades en marcos de automatización avanzados.
 -->
