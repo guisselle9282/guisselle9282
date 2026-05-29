@@ -1,8 +1,19 @@
-# ¡Hola! Soy Yahoska 👋
+# Hola, Soy Yahoska 👋
 
-## De la optimización industrial al aseguramiento de calidad de software (QA Engineer)
+Con una sólida formación en **Ingeniería Industrial**, he enfocado mi carrera en el análisis detallado, la optimización de procesos y la resolución de problemas estructurados. A lo largo de mi trayectoria, descubrí que mi verdadera pasión radica en aplicar esta mentalidad analítica al ecosistema del software, lo que me llevó a realizar una transición profesional estratégica hacia el área de **Quality Assurance (QA) Engineering**.
 
-Me apasiona la resolución de problemas, la optimización de procesos y el análisis detallado. Con mi experiencia en ingeniería, he dado el salto al sector tecnológico especializándome en **Quality Assurance (QA)**, asegurando que el software no solo funcione, sino que cumpla con los más altos estándares de excelencia.
+Antes de sumergirme por completo en el mundo tecnológico, desarrollé habilidades clave en la identificación de ineficiencias y el diseño de mejoras operativas dentro de entornos de manufactura. Con el tiempo, comprendí que los principios de excelencia, control de calidad y mejora continua que aplicaba en procesos físicos son perfectamente trasladables y críticamente necesarios en el ciclo de vida del desarrollo de software (SDLC).
+
+Esa visión me impulsó a profundizar mis competencias técnicas en pruebas de software, metodologías ágiles y automatización. Hoy en día, combino mi rigurosa mentalidad de ingeniera con herramientas de automatización y análisis técnico para garantizar que el software no solo funcione de manera óptima, sino que aporte un valor real, seguro y confiable al usuario final.
+
+---
+
+## Lo que hago
+
+* **Análisis de Requerimientos y Procesos:** Desglose riguroso de especificaciones lógicas para diseñar estrategias de prueba con alta cobertura desde etapas tempranas (Shift-Left Testing).
+* **Gestión de Calidad (QA Manual):** Diseño, documentación y ejecución de planes y casos de prueba integrales para entornos Web, Móvil y APIs, priorizando pruebas funcionales y de regresión.
+* **Automatización de Pruebas (Test Automation):** Creación y mantenimiento de scripts eficientes para validar flujos lógicos, respuestas JSON y estabilidad de endpoints.
+* **Detección y Documentación de Errores:** Reporte detallado, aislamiento y seguimiento de bugs utilizando herramientas de gestión para facilitar el trabajo del equipo de desarrollo.
 
 ---
 
